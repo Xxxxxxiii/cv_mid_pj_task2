@@ -30,4 +30,8 @@
 
 3.2. 可视化结果示例
 
-3.2.1 Faster R-CNN：```visulization/visulization.py```
+3.2.1 Faster R-CNN: ```visulization/Faster R-CNN examples```
+
+3.2.2 Mask R-CNN: ```visulization/Mask R-CNN examples```
+
+3.2.3 Sparse R-CNN: ```visulization/Sparse R-CNN```
