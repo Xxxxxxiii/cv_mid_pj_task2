@@ -2,7 +2,7 @@
 
 *1. 数据处理*
 
-1.1. 通过 ```data_reprocess/images_division.py ```分割数据集。
+1.1. 通过 ```data_reprocess/images_division.py ```分割VOC2012数据集。
    
 1.2. 通过 ```data_reprocess/mask_generation.py ```获得掩码数据。生成的mask可在```data/VOCdevikit/VOC2012/mask_examples```中查看示例。
 
